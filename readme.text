@@ -1,0 +1,33 @@
+1) intall react-router-dom
+
+npm install --save react-router-dom
+npm install @types/react-router-dom
+
+
+2) install redux-saga with steps
+
+npm install redux-saga --save
+
+npm install react-redux --save
+
+
+3) install formik
+  
+  npm install formik
+
+
+4) install Yup
+  
+  npm install yup
+
+
+5) install axios for API call
+npm install axios  
+
+6) Install Json-server for in memory database
+
+https://www.npmjs.com/package/json-server
+
+Run in memory database 
+
+json-server --watch db.json

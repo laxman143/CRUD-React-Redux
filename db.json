@@ -1,0 +1,126 @@
+{
+  "country": [
+    {
+      "id": 1,
+      "name": "India"
+    },
+    {
+      "id": 2,
+      "name": "US"
+    },
+    {
+      "id": 3,
+      "name": "Australia"
+    }
+  ],
+  "State": [
+    {
+      "id": 1,
+      "countryId": 1,
+      "state": "Gujarat"
+    },
+    {
+      "id": 2,
+      "countryId": 1,
+      "state": "Maharastra"
+    },
+    {
+      "id": 2,
+      "countryId": 2,
+      "state": "Floria"
+    }
+  ],
+  "City": [
+    {
+      "id": 1,
+      "stateId": 1,
+      "city": "Surat"
+    },
+    {
+      "id": 1,
+      "stateId": 1,
+      "city": "Ahemadabad"
+    },
+    {
+      "id": 2,
+      "countryId": 2,
+      "state": "Floria"
+    }
+  ],
+  "Product": [],
+  "User": [
+    {
+      "id": 1
+    },
+    {
+      "title": "Mr",
+      "firstName": "Laxman",
+      "lastName": "Prajapati",
+      "email": "laxmanprajapati143@gmail.com",
+      "role": "User",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "id": 2
+    },
+    {
+      "title": "Mrs",
+      "firstName": "asdsad",
+      "lastName": "sa",
+      "email": "asd@gmail.com",
+      "role": "Admin",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "id": 3
+    },
+    {
+      "title": "Mr",
+      "firstName": "Niva",
+      "lastName": "Prajapati",
+      "email": "niva@gmail.com",
+      "role": "Admin",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "title": "Mrs",
+      "firstName": "123",
+      "lastName": "lll",
+      "email": "kkk@gmail.com",
+      "role": "User",
+      "password": "123456",
+      "confirmPassword": "123456"
+    },
+    {
+      "id": 12,
+      "title": "Miss",
+      "firstName": "asdasd",
+      "lastName": "asdasd",
+      "email": "asd@gmail.com",
+      "role": "User",
+      "password": "123456",
+      "confirmPassword": "123456"
+    },
+    {
+      "id": 14,
+      "title": "Miss",
+      "firstName": "asdcdewrwe",
+      "lastName": "sdfcsdf1111",
+      "email": "asd@gmail.com",
+      "role": "Admin",
+      "password": "123456",
+      "confirmPassword": "123456"
+    },
+    {
+      "id": 15,
+      "title": "Mrs",
+      "firstName": "wd",
+      "lastName": "sdfsdf",
+      "email": "asd@gmail.com",
+      "role": "User",
+      "password": "123456",
+      "confirmPassword": "123456"
+    }
+  ]
+}
